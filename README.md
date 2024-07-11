@@ -10,7 +10,7 @@
 | 20/2028973  | Tiago Albuquerque de Lima |
 
 ## Sobre 
-Este repositório tem como objetivo a resolução de exercícios sobre grafos do [LeetCode](https://leetcode.com/), utilizando o conteúdo do primeiro módulo Grafos 1.
+Este repositório tem como objetivo a resolução de exercícios sobre grafos do [LeetCode](https://leetcode.com/), utilizando o conteúdo do primeiro módulo Grafos 2.
 
 ## Screenshots
 ### Exercício 1 - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)
@@ -61,7 +61,7 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_c
 **Obs.:** Faça isso para cada codigo.
 
 ## Outros 
-**Apresentação da resolução dos exercícios:** https://youtu.be/n8139Zxdvc0?si=I4mpyA0qTWXnz_Za
+**Apresentação da resolução dos exercícios:** 
 
 
 
