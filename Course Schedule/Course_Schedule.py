@@ -4,7 +4,7 @@ class Solution:
         grafo2 = [[] for _ in range(n)]
         visitado = [False] * n
         finalizado = [0] * n
-        tempo = [0]  # Use uma lista para passar por referência
+        tempo = [0]  
 
         for edge in prerequisites:
             de_no, para_no = edge
