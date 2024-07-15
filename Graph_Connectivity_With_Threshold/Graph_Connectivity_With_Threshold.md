@@ -49,11 +49,11 @@ Please notice that there can be multiple queries for the same pair of nodes [x, 
 
 # Constraints:
 
-- ```2 <= n <= 104```
+- ```2 <= n <= 10^4```
 
 - ```0 <= threshold <= n```
 
-- ```1 <= queries.length <= 105```
+- ```1 <= queries.length <= 10^5```
 
 - ```queries[i].length == 2```
 
