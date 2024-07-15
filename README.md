@@ -16,7 +16,7 @@ Este repositório tem como objetivo a resolução de exercícios sobre grafos do
 ### Exercício 1 - [Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold)
 
 Dificuldade: Difícil<br>
-Problema: [Graph Connectivity With Threshold]()<br>
+Problema: [Graph Connectivity With Threshold](https://github.com/projeto-de-algoritmos-2024/Grafos2_Leet_code/blob/fb4759ed8216200700579af728aec3573d62d5d1/Graph_Connectivity_With_Threshold/Graph_Connectivity_With_Threshold.md)<br>
 Codigo: [Solução]()<br>
 
 ![](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/abd62d3dc67481af3569a15132d0b0c86a9d0b8c/Assets/Media_1.png)<br>
