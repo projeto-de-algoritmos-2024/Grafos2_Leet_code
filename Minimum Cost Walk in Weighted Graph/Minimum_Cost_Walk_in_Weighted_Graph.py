@@ -28,4 +28,9 @@ class Solution:
         
         return list(map(encontrar_peso, queries))
 
+        for edge in edges:
+            unir(*edge)
+        
+        return list(map(encontrar_peso, queries))
+
 peso_max = [(1<<31) - 1] * 10
