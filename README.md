@@ -10,7 +10,7 @@
 | 20/2028973  | Tiago Albuquerque de Lima |
 
 ## Sobre 
-Este repositório tem como objetivo a resolução de exercícios sobre grafos do [LeetCode](https://leetcode.com/), utilizando o conteúdo do primeiro módulo Grafos 2.
+Este repositório tem como objetivo a resolução de exercícios sobre grafos do [LeetCode](https://leetcode.com/), utilizando o conteúdo do segundo módulo Grafos 2.
 
 ## Screenshots
 ### Exercício 1 - [Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold)
