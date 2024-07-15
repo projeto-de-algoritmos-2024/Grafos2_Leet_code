@@ -17,25 +17,25 @@ Este repositório tem como objetivo a resolução de exercícios sobre grafos do
 
 Dificuldade: Difícil<br>
 Problema: [Graph Connectivity With Threshold](https://github.com/projeto-de-algoritmos-2024/Grafos2_Leet_code/blob/fb4759ed8216200700579af728aec3573d62d5d1/Graph_Connectivity_With_Threshold/Graph_Connectivity_With_Threshold.md)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos2_Leet_code/blob/cc707cb44bce6b8f5f4490073c9aa9e919bd833b/Graph_Connectivity_With_Threshold/Graph_Connectivity_With_Threshold.py)<br>
+
+![](https://github.com/projeto-de-algoritmos-2024/Grafos2_Leet_code/blob/cc707cb44bce6b8f5f4490073c9aa9e919bd833b/Assets/Media_1.png)<br>
+
+### Exercício 2 - [Course Schedule](https://leetcode.com/problems/course-schedule)
+
+Dificuldade: Médio<br>
+Problema: [Course Schedule](https://github.com/projeto-de-algoritmos-2024/Grafos2_Leet_code/blob/cc707cb44bce6b8f5f4490073c9aa9e919bd833b/Course%20Schedule/Course_Schedule.md)<br>
 Codigo: [Solução]()<br>
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/abd62d3dc67481af3569a15132d0b0c86a9d0b8c/Assets/Media_1.png)<br>
+![]()<br>
 
-### Exercício 2 - [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes)
-
-Dificuldade: Difícil<br>
-Problema: [Shortest Path Visiting All Nodes](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/f3e19332d95e98cc8c1240acdc223761b2f81d66/Shortest_Path_Visiting_All_Nodes/Shortest_Path_Visiting_All_Nodes.md)<br>
-Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/6a058599447c62dabaf3df7487aa86881b65f488/Shortest_Path_Visiting_All_Nodes/Shortest_Path_Visiting_All_Nodes.py)<br>
-
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/3664a0110fab71e6fca580e2ecf9609724d1560f/Assets/Media_2.png)<br>
-
-### Exercício 3 - [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)
+### Exercício 3 - [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph)
 
 Dificuldade: Difícil<br>
-Problema: [Swim in Rising Water](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/ffbb8f1de75ef2ad16797861b76464c1c5249435/swim-in-rising-water/Swim_in_rising_water.md)<br>
-Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/2d1cbf5d662e32e0163ba36d8482921b5e5bdf5a/swim-in-rising-water/swim-in-rising-water.py)<br>
+Problema: [Minimum Cost Walk in Weighted Graph](https://github.com/projeto-de-algoritmos-2024/Grafos2_Leet_code/blob/cc707cb44bce6b8f5f4490073c9aa9e919bd833b/Minimum%20Cost%20Walk%20in%20Weighted%20Graph/Minimum_Cost_Walk_in_Weighted_Graph.md)<br>
+Codigo: [Solução]()<br>
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/6a670c97d8a16dbde8c92aad1abb293cffb54ed0/Assets/Media_3.png)<br>
+![]()<br>
 
 ## Instalação 
 **Linguagem**: Python<br>
