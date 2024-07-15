@@ -19,14 +19,13 @@ class Solution:
                 return -1
             return peso_max[encontrar(origem)]
         
+        pai = list(range(n))
         resposta = []
+        peso_max = [(1<<31) - 1] * n
         
         for edge in edges:
-            pai = list(range(n))
-            peso_max = [(1<<31) - 1] * n
             unir(*edge)
         
         return list(map(encontrar_peso, queries))
 
-pai = list(range(10))
 peso_max = [(1<<31) - 1] * 10
