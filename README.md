@@ -61,7 +61,7 @@ Codigo: [Solução](https://leetcode.com/submissions/detail/1322300696/)<br>
 **Obs.:** Faça isso para cada codigo.
 
 ## Outros 
-**Apresentação da resolução dos exercícios:** 
+**Apresentação da resolução dos exercícios:** https://youtu.be/MDqbk9kdoBM
 
 
 
