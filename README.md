@@ -25,7 +25,8 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos2_Leet_c
 
 Dificuldade: Médio<br>
 Problema: [Course Schedule](https://github.com/projeto-de-algoritmos-2024/Grafos2_Leet_code/blob/cc707cb44bce6b8f5f4490073c9aa9e919bd833b/Course%20Schedule/Course_Schedule.md)<br>
-Codigo: [Solução](https://github.com/user-attachments/assets/bd24ccdd-f67c-4d3f-8092-a388f60d17e6)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos2_Leet_code/blob/f575f7695872101a941ca8ffc1d70c78fb77b8e0/Course%20Schedule/Course_Schedule.py)<br>
+        [Extra](https://github.com/user-attachments/assets/bd24ccdd-f67c-4d3f-8092-a388f60d17e6)<br>
 
 ![image](https://github.com/user-attachments/assets/414ec62e-d243-499e-99ae-53cd8dd4f9bd)
 
@@ -33,7 +34,8 @@ Codigo: [Solução](https://github.com/user-attachments/assets/bd24ccdd-f67c-4d3
 
 Dificuldade: Difícil<br>
 Problema: [Minimum Cost Walk in Weighted Graph](https://github.com/projeto-de-algoritmos-2024/Grafos2_Leet_code/blob/cc707cb44bce6b8f5f4490073c9aa9e919bd833b/Minimum%20Cost%20Walk%20in%20Weighted%20Graph/Minimum_Cost_Walk_in_Weighted_Graph.md)<br>
-Codigo: [Solução](https://leetcode.com/submissions/detail/1322300696/)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos2_Leet_code/blob/f575f7695872101a941ca8ffc1d70c78fb77b8e0/Minimum%20Cost%20Walk%20in%20Weighted%20Graph/Minimum_Cost_Walk_in_Weighted_Graph.py)<br>
+        [Extra](https://leetcode.com/submissions/detail/1322300696/)<br>
 
 ![Captura de tela de 2024-07-15 19-51-49](https://github.com/user-attachments/assets/e28b549b-8202-472a-a8ed-548f72edb50b)
 
